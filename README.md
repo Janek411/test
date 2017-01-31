@@ -1,1 +1,1 @@
-# test
+# This project is the test project for beginner.
